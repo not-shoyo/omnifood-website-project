@@ -1,6 +1,8 @@
-# omnifood-website-project
+# Omnifood Website Project
 
 Modern and stylish frontend for a website built for a fictional company called omnifood.
+
+Link to website: [go to website](https://omnifood-project-akheel.netlify.app/)
 
 The website uses flexbox and grid layouts as and when required to come up with clean and professional look. It currently shows 2 pricing cards along with list of diets provided by the service. The main Call-to-action section comes in the end right before the footer. Until then the user goes through details on how the service works in the how-it-works section and is reinforced on the quality of the service via testimonial section and galleries.
 
