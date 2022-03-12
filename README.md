@@ -8,3 +8,17 @@ The website uses flexbox and grid layouts as and when required to come up with c
 
 Responsive UI with breakpoints placed at dimensions where the layout breaks rather than adhering to strict device widths ensure the website looks good in a wide range of screens. Following up on responsive UI, this front end properly emphasizes UX and its importance in Web Design with appropriate styling such as line heights, law-of-proximity & contrast ratios.
 
+### Hero Section ###
+![image](https://user-images.githubusercontent.com/73631606/158005262-680da066-564b-4457-845a-03973139b711.png)
+
+### Diet List and Cards Section ###
+![image](https://user-images.githubusercontent.com/73631606/158005322-85c7d0a3-2023-486e-9527-b9bceacf1eea.png)
+
+### Testimonials and Gallery Section ###
+![image](https://user-images.githubusercontent.com/73631606/158005348-cea871b7-acf6-4b8d-b010-08c1ce67b6eb.png)
+
+### Subscription plans Section ###
+![image](https://user-images.githubusercontent.com/73631606/158005370-81f42a7f-689e-4e0a-a475-9f89de4665e8.png)
+
+### Call To Action and Footer Section ###
+![image](https://user-images.githubusercontent.com/73631606/158005392-ba6cc474-8fc9-436c-8457-64876254bd03.png)
