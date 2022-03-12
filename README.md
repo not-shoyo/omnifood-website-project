@@ -12,7 +12,7 @@ Responsive UI with breakpoints placed at dimensions where the layout breaks rath
 ![image](https://user-images.githubusercontent.com/73631606/158005262-680da066-564b-4457-845a-03973139b711.png)
 
 ### Diet List and Cards Section ###
-![image](https://user-images.githubusercontent.com/73631606/158005322-85c7d0a3-2023-486e-9527-b9bceacf1eea.png)
+![image](https://user-images.githubusercontent.com/73631606/158005444-cc6e68e6-14ac-405b-a377-4b37641dbf9f.png)
 
 ### Testimonials and Gallery Section ###
 ![image](https://user-images.githubusercontent.com/73631606/158005348-cea871b7-acf6-4b8d-b010-08c1ce67b6eb.png)
